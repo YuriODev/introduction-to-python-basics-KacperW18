@@ -8,5 +8,5 @@ num3 = (input % 100) // 10
 num4 = input % 10
 
 
-result = (num1 + num2) // (num3 + num4)
+result = (num1 == num4) * (num3 == num2)
 print(result)
