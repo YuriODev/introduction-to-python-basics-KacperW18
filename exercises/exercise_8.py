@@ -1,8 +1,8 @@
 # Exercise 8
 # Your solution comes here
-num1 = int(input("Enter a number"))
-num2 = int(input("Enter a number"))
-num3 = int(input("Enter a number"))
+num1 = int(input())
+num2 = int(input())
+num3 = int(input())
 list = [num1,num2,num3]
 list.sort()
 print(list[0])

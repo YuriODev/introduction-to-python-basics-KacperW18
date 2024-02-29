@@ -1,6 +1,6 @@
 # Exercise 11
 # Your solution comes here
-s = int(input("Enter the price: "))
+s = int(input())
 fhundred = s // 500
 hundred = (s % 500) // 100
 fifty = (s % 100) // 50

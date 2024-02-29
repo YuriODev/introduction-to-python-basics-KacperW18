@@ -1,6 +1,6 @@
 # Exercise 7
 # Your solution comes here
-num = int(input("Enter a four digit number: "))
+num = int(input())
 num1 = num // 1000
 num2 = (num % 1000) // 100
 num3 = (num % 100) // 10
